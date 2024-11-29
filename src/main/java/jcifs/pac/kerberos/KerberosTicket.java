@@ -16,7 +16,6 @@
  */
 package jcifs.pac.kerberos;
 
-
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import java.math.BigInteger;
